@@ -1,0 +1,47 @@
+1: ~\_vimrc
+2: C:\Program Files\Vim\vim90\vimrc_example.vim
+3: C:\Program Files\Vim\vim90\defaults.vim
+4: C:\Program Files\Vim\vim90\filetype.vim
+5: C:\Program Files\Vim\vim90\menu.vim
+6: C:\Program Files\Vim\vim90\autoload\paste.vim
+7: C:\Program Files\Vim\vim90\ftplugin.vim
+8: C:\Program Files\Vim\vim90\indent.vim
+9: C:\Program Files\Vim\vim90\syntax\syntax.vim
+10: C:\Program Files\Vim\vim90\syntax\synload.vim
+11: C:\Program Files\Vim\vim90\syntax\syncolor.vim
+12: C:\Program Files\Vim\vim90\colors\lists\default.vim
+13: C:\Program Files\Vim\vim90\mswin.vim
+14: C:\Program Files\Vim\vim90\syntax\nosyntax.vim
+15: ~\vimfiles\pack\plugins\start\gruvbox\colors\gruvbox.vim
+16: ~\vimfiles\plugin\netrwPlugin.vim
+17: C:\Program Files\Vim\vim90\plugin\getscriptPlugin.vim
+18: C:\Program Files\Vim\vim90\plugin\gzip.vim
+19: C:\Program Files\Vim\vim90\plugin\logiPat.vim
+20: C:\Program Files\Vim\vim90\plugin\manpager.vim
+21: C:\Program Files\Vim\vim90\plugin\matchparen.vim
+22: C:\Program Files\Vim\vim90\plugin\netrwPlugin.vim
+23: C:\Program Files\Vim\vim90\plugin\rrhelper.vim
+24: C:\Program Files\Vim\vim90\plugin\spellfile.vim
+25: C:\Program Files\Vim\vim90\plugin\tarPlugin.vim
+26: C:\Program Files\Vim\vim90\plugin\tohtml.vim
+27: C:\Program Files\Vim\vim90\plugin\vimballPlugin.vim
+28: C:\Program Files\Vim\vim90\plugin\zipPlugin.vim
+29: C:\Program Files\Vim\vim90\pack\dist\opt\matchit\plugin\matchit.vim
+30: ~\vimfiles\pack\plugins\start\CamelCaseMotion\plugin\camelcasemotion.vim
+31: ~\vimfiles\pack\plugins\start\lion\plugin\lion.vim
+32: ~\vimfiles\pack\plugins\start\sneak\plugin\sneak.vim
+33: ~\vimfiles\pack\plugins\start\tabular\plugin\Tabular.vim
+34: ~\vimfiles\pack\plugins\start\vim-abolish\plugin\abolish.vim
+35: ~\vimfiles\pack\plugins\start\vim-chalk\plugin\chalk.vim
+36: ~\vimfiles\pack\plugins\start\vim-commentary\plugin\commentary.vim
+37: ~\vimfiles\pack\plugins\start\vim-dirvish\plugin\dirvish.vim
+38: ~\vimfiles\pack\plugins\start\vim-eunuch\plugin\eunuch.vim
+39: ~\vimfiles\pack\plugins\start\vim-indent-guides\plugin\indent_guides.vim
+40: ~\vimfiles\pack\plugins\start\vim-indent-guides\autoload\indent_guides.vim
+41: ~\vimfiles\pack\plugins\start\vim-surround\plugin\surround.vim
+42: ~\vimfiles\pack\plugins\start\tabular\after\plugin\TabularMaps.vim
+43: ~\vimfiles\pack\plugins\start\tabular\autoload\tabular.vim
+44: C:\Program Files\Vim\vim90\scripts.vim
+45: C:\Program Files\Vim\vim90\autoload\dist\script.vim
+46: ~\vimfiles\pack\plugins\start\CamelCaseMotion\autoload\camelcasemotion.vim
+

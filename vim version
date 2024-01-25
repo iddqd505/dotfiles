@@ -1,0 +1,31 @@
+VIM - Vi IMproved 9.0 (2022 Jun 28, compiled Dec 29 2023 00:12:45)
+MS-Windows 64-bit GUI version with OLE support
+Included patches: 1-2189
+Compiled by appveyor@APPVEYOR-VM
+Huge version with GUI.  Features included (+) or not (-):
++acl                +cindent            +cursorshape        -farsi              +job                +menu               +packages           +reltime            -sun_workshop       -tgetent            +visualextra        -xterm_save
++arabic             +clientserver       +dialog_con_gui     +file_in_path       +jumplist           +mksession          +path_extra         +rightleft          +syntax             +timers             +vreplace
++autocmd            +clipboard          +diff               +find_in_path       +keymap             +modify_fname       +perl/dyn           +ruby/dyn           +tag_binary         +title              -vtp
++autochdir          +cmdline_compl      +digraphs           +float              +lambda             +mouse              +persistent_undo    +scrollbind         -tag_old_static     +toolbar            +wildignore
++autoservername     +cmdline_hist       +directx            +folding            +langmap            +mouseshape         +popupwin           +signs              -tag_any_white      +user_commands      +wildmenu
++balloon_eval       +cmdline_info       -dnd                -footer             +libcall            +multi_byte_ime/dyn -postscript         +smartindent        -tcl                +vartabs            +windows
+-balloon_eval_term  +comments           -ebcdic             +gettext/dyn        +linebreak          +multi_lang         +printer            +sodium/dyn         -termguicolors      +vertsplit          +writebackup
++browse             +conceal            +emacs_tags         -hangul_input       +lispindent         +mzscheme/dyn       +profile            +sound              +terminal           +vim9script         -xattr
+++builtin_terms     +cryptv             +eval               +iconv/dyn          +listcmds           +netbeans_intg      +python/dyn         +spell              -termresponse       +viminfo            -xfontset
++byte_offset        +cscope             +ex_extra           +insert_expand      +localmap           +num64              +python3/dyn-stable +startuptime        +textobjects        +virtualedit        -xim
++channel            +cursorbind         +extra_search       +ipv6               +lua/dyn            +ole                +quickfix           +statusline         +textprop           +visual             +xpm_w32
+   system vimrc file: "$VIM\vimrc"
+     user vimrc file: "$HOME\_vimrc"
+ 2nd user vimrc file: "$HOME\vimfiles\vimrc"
+ 3rd user vimrc file: "$VIM\_vimrc"
+      user exrc file: "$HOME\_exrc"
+  2nd user exrc file: "$VIM\_exrc"
+  system gvimrc file: "$VIM\gvimrc"
+    user gvimrc file: "$HOME\_gvimrc"
+2nd user gvimrc file: "$HOME\vimfiles\gvimrc"
+3rd user gvimrc file: "$VIM\_gvimrc"
+       defaults file: "$VIMRUNTIME\defaults.vim"
+    system menu file: "$VIMRUNTIME\menu.vim"
+Compilation: cl -c /W3 /GF /nologo -I. -Iproto -DHAVE_PATHDEF -DWIN32 -DHAVE_STDINT_H  -DFEAT_CSCOPE -DFEAT_TERMINAL -DFEAT_SOUND -DFEAT_NETBEANS_INTG -DFEAT_JOB_CHANNEL -DFEAT_IPV6 -DHAVE_INET_NTOP   -DFEAT_XPM_W32 -DHAVE_SODIUM -DDYNAMIC_SODIUM -DDYNAMIC_SODIUM_DLL=\"libsodium.dll\" /I "C:\projects\vim-win32-installer\dependencies\libsodium\include" -DWINVER=0x0601 -D_WIN32_WINNT=0x0601 /source-charset:utf-8 /MP /Ox /GL -DNDEBUG /Zl /MT /D_CRT_SECURE_NO_DEPRECATE /D_CRT_NONSTDC_NO_DEPRECATE -DFEAT_OLE -DFEAT_MBYTE_IME -DDYNAMIC_IME -DFEAT_GUI_MSWIN -DFEAT_DIRECTX -DDYNAMIC_DIRECTX -DFEAT_DIRECTX_COLOR_EMOJI -DDYNAMIC_ICONV -DDYNAMIC_GETTEXT -DFEAT_LUA -DDYNAMIC_LUA -DDYNAMIC_LUA_DLL=\"lua54.dll\" -DFEAT_PYTHON -DDYNAMIC_PYTHON -DDYNAMIC_PYTHON_DLL=\"python27.dll\" -DFEAT_PYTHON3 -DDYNAMIC_PYTHON3 -DDYNAMIC_PYTHON3_DLL=\"python3.dll\" -DDYNAMIC_PYTHON3_STABLE_ABI -DFEAT_MZSCHEME -I "C:\projects\vim-win32-installer\dependencies\racket\include" -DMZ_PRECISE_GC -DDYNAMIC_MZSCHEME -DDYNAMIC_MZSCH_DLL=\"libracket3m_dcgt6o.dll\" -DDYNAMIC_MZGC_DLL=\"libracket3m_dcgt6o.dll\" -DFEAT_PERL -DPERL_IMPLICIT_CONTEXT -DPERL_IMPLICIT_SYS -DDYNAMIC_PERL -DDYNAMIC_PERL_DLL=\"perl532.dll\" -DFEAT_RUBY -DDYNAMIC_RUBY -DDYNAMIC_RUBY_DLL=\"x64-ucrt-ruby320.dll\" -DRUBY_VERSION=32 -DFEAT_HUGE /Fd.\ObjGXOULYHRZAMD64/ /Zi
+Linking: link /nologo /opt:ref /LTCG /HIGHENTROPYVA:NO oldnames.lib kernel32.lib advapi32.lib shell32.lib gdi32.lib  comdlg32.lib ole32.lib netapi32.lib uuid.lib user32.lib  /machine:AMD64 version.lib  winspool.lib comctl32.lib libcmt.lib oleaut32.lib  /nodefaultlib:lua54.lib  /STACK:8388608  /nodefaultlib:python27.lib /nodefaultlib:python3.lib    winmm.lib Ws2_32.lib xpm\x64\lib-vc14\libXpm.lib  /PDB:gvim.pdb -debug
+
