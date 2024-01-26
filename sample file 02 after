@@ -1,0 +1,18 @@
+
+sample file 02 after saving, closing, and reopening with the macro register content pasted inside
+
+TESTLINE_2001 (testing_test)
+
+--Macro w content pasted 3 different ways in file utf-8,unix saved before opening again in my gVim text editor
+
+--Macro w pasted with "wp
+0f)??avi)??C??j??j
+
+--Macro w pasted with echo keytrans (@w)
+0<C-A>f)<t_<fd>a>vi)<C-C><M-j><M-j>
+
+--Macro w pasted in insert mode with <Ctrl-R>+w
+0f)<t_ý>avi)üCjj
+
+
+
